@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @deepuranjannahak
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Data Engineering and done one project.
-- 💞️ I’m looking to collaborate on a great team with dynamic challenging environment.
+- 👋    Hi there, I’m @deepuranjannahak, a former backend developer + Ass. Data Engineer.
+- 👀    I’m like to learn new technologies.
+- 🌱    I’m currently learning Data Engineering and done one project.
+- 💞️    I’m looking to collaborate on a great team with dynamic challenging environment.
+- (^_^) My top five skils are Python, Django, MySQL, Github, Jira.
 - 📫 How to reach me -> deepuranjannahak@gmail.com
 
 <!---
