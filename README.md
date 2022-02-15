@@ -1,4 +1,4 @@
-- 👋    Hi there, I’m @deepuranjannahak, a former backend developer + Ass. Data Engineer.
+- 👋    Hi there, I’m @deepuranjannahak, a backend developer + Ass. Data Engineer.
 - 👀    I’m like to learn new technologies.
 - 🌱    I’m currently learning Data Engineering and done one project.
 - 💞️    I’m looking to collaborate on a great team with dynamic challenging environment.
