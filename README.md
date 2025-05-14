@@ -1,8 +1,8 @@
-- 👋    Hi there, I’m @deepuranjannahak, a backend developer + Ass. Data Engineer.
+- 👋    Hi there, I’m Deepu Ranjan Nahak Data Engineer.
 - 👀    I’m like to learn new technologies.
-- 🌱    I’m currently learning Data Engineering and done one project.
+- 🌱    I’m currently working as Sr. Data Engineering.
 - 💞️    I’m looking to collaborate on a great team with dynamic challenging environment.
-- (^_^) My top five skils are Python, Django, MySQL, Github, Jira.
+- (^_^) My top five skils are Python, SQL, Spark, Github, Jira.
 - 📫 How to reach me -> deepuranjannahak@gmail.com
 
 <!---
